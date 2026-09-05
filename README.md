@@ -1,4 +1,4 @@
-<img width="981" height="977" alt="JaneStreet Puzzle" src="https://github.com/user-attachments/assets/c6f21aef-b806-4f50-bda5-42119128df73" />
+<img width="975" height="969" alt="Jane_Street_Puzzle_Solution" src="https://github.com/user-attachments/assets/26161227-207e-4e64-9f92-12f47d39c872" />
 
 # Reverse-Engineering-An-ASIC-Jane-Street-Puzzle-8-5-2026-
 Here is my submission of the Jane Street Puzzle: ["Can you reverse engineer an ASIC"](https://blog.janestreet.com/can-you-reverse-engineer-an-asic/). Here I cover some of my process for figuring out the solutions and what tools I used. 
